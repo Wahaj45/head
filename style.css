@@ -1,0 +1,27 @@
+h1:hover{ 
+    background-color: blue; font-style:italic;
+    font-family: fantasy; transition-duration: 1s; }
+    .min{ background-color: black;
+    width: 20%;
+    height: 200px;margin: 20px;
+  
+    }
+    *{
+        font-family:cursive;
+    }
+    #Back:hover{
+          background-color: brown;
+          color: chartreuse;    
+    }
+    .abc:hover{
+          background-color: cornflowerblue;
+          color: crimson;
+    }#unique:hover{
+        background-color:darkolivegreen;
+          color: darkslateblue;
+    }i:hover{
+        color: deeppink;
+    }
+    ul{
+         display: flex;
+    }
